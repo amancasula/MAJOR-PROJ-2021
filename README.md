@@ -5,4 +5,4 @@
 <li>EYE GAZE TRACKING</li>
 <li>YOLOv3 OBJECT DETECTION</li>
 </ul>
-  (dependencies to be added!)
+<h3>(dependencies to be added!)</h3>
